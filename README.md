@@ -133,3 +133,14 @@ LeetCode150题（由Python语言实现，解法均是最低复杂度）
 
 ```
 
+
+
+### 许可证
+
+该项目根据GPL许可证的条款进行许可。详情请参见[LICENSE](LICENSE)文件。
+
+### 联系
+
+项目链接：https://github.com/wxtt-github/LeetCode150-implemented-by-Python
+
+非常欢迎向我提起issue。
